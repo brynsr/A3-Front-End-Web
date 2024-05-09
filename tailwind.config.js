@@ -6,6 +6,8 @@ module.exports = {
       'sans': ['Open Sans', 'sans-serif'],
       'serif': ['Merriweather', 'serif'],
       'Poppins': ['"Poppins"', "sans-serif"],
+      'Schoolbell': ['"Schoolbell"', "sans-serif"],
+
     },
     extend: {
       spacing: {
