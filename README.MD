@@ -18,6 +18,6 @@ Marr, B. (2024, February 20). Is Generative AI stealing from artists?. Forbes. h
 
 Refsnes Data. (2024). W3Schools. W3Schools Online Web Tutorials. https://www.w3schools.com/ 
 
-Animate on Scroll Library. AOS - Animate on scroll library. (2024) https://michalsnik.github.io/aos/ 
+Animate on Scroll Library. AOS - Animate on scroll library. (2024). michalsnik. https://michalsnik.github.io/aos/ 
 
-Rapidly build modern websites without ever leaving your HTML. Tailwind CSS. (2024). https://tailwindcss.com/
+Rapidly build modern websites without ever leaving your HTML. Tailwind CSS. (2024). TailWind CSS. https://tailwindcss.com/
