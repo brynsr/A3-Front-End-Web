@@ -15,6 +15,9 @@ While I feel the front-end user experience of my final portfolio site is perform
 ## References
 
 Marr, B. (2024, February 20). Is Generative AI stealing from artists?. Forbes. https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/?sh=d36bbfb5d1ee
+
 Refsnes Data. (2024). W3Schools. W3Schools Online Web Tutorials. https://www.w3schools.com/ 
+
 Animate on Scroll Library. AOS - Animate on scroll library. (2024) https://michalsnik.github.io/aos/ 
+
 Rapidly build modern websites without ever leaving your HTML. Tailwind CSS. (2024). https://tailwindcss.com/
