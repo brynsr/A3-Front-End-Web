@@ -1,4 +1,4 @@
-#Reflection and Self-Evaluation
+# Reflection and Self-Evaluation
 
 For the third and final assessment task, I aimed to implement the concepts and features expected of a modern webpage which implements future web technologies. The brief suggested using AI-generated content to develop this website, however, the moral and legal issues surrounding the use of AI-generated content present a shaky and uncertain future for their usage on the web (Marr, 2024). I also have personal reservations in my feelings around AI-generated content, and as such did not feel comfortable including it in my solution.
 
@@ -12,6 +12,6 @@ When it came to finalising my project I had a late complication in my work which
 
 While I feel the front-end user experience of my final portfolio site is performant and clean, I believe that I am capable of a much more interactive and well produced front end website design, and will be working hard to ensure future web projects meet my personal standards.
 
-##References
+## References
 
 Marr, B. (2024, February 20). Is Generative AI stealing from artists?. Forbes. https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/?sh=d36bbfb5d1ee
